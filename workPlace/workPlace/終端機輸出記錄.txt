@@ -1,0 +1,66 @@
+Last login: Fri Aug 11 01:35:05 on ttys023
+chongkai@zhongkaideMacBook-Pro ~ % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro ~ % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro ~ % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro ~ % cd chongkai
+cd: no such file or directory: chongkai
+chongkai@zhongkaideMacBook-Pro ~ % ls
+AndroidStudioProjects	Library			flutter_application_1
+Applications		Movies			helloword.rtf
+Desktop			Music			image
+Documents		Pictures		project_name
+Downloads		Public			workPlace
+chongkai@zhongkaideMacBook-Pro ~ % cd user
+cd: no such file or directory: user
+chongkai@zhongkaideMacBook-Pro ~ % cd workPlace
+chongkai@zhongkaideMacBook-Pro workPlace % mkdir workPlace
+chongkai@zhongkaideMacBook-Pro workPlace % ls
+workPlace
+chongkai@zhongkaideMacBook-Pro workPlace % ls -a
+.		..		workPlace
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword    
+fatal: pathspec 'helloword' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword
+fatal: pathspec 'helloword' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % ls
+workPlace
+chongkai@zhongkaideMacBook-Pro workPlace % cd workPlace
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword.txt
+fatal: pathspec 'helloword.txt' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % git add helloword    
+fatal: pathspec 'helloword' did not match any files
+chongkai@zhongkaideMacBook-Pro workPlace % vim a.code 
+
+here is new words.
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
