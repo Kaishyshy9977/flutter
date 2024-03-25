@@ -4,6 +4,8 @@ import 'package:expense_tracker/widgets/new_expense.dart';
 import 'package:flutter/material.dart';
 
 class Expenses extends StatefulWidget {
+  const Expenses({super.key});
+
   @override
   State<StatefulWidget> createState() {
     return _ExpenseState();
