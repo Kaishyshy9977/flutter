@@ -39,3 +39,14 @@
 .zshrc
 .zshrc.swp
 
+	.gitignore.save
+	ADV_BASIC.code-profile
+	AndroidStudioProjects/
+	Applications/
+	Documents/
+	Flutter_project/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+
